@@ -1,0 +1,29 @@
+# Taxi Price Prediction
+
+## Project Overview
+This project predicts taxi fares based on various input features such as distance, passenger count, and trip duration using machine learning models.
+
+## Dataset
+- **Source**: [Include dataset link or description]
+- **Description**: The dataset contains features such as:
+  - Pickup and dropoff times
+  - Trip distance
+  - Fare amount
+  - Passenger count, etc.
+
+## Tools & Libraries Used
+- Python
+- Pandas
+- Scikit-learn
+- Jupyter Notebook
+
+## How to Run
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Sujith7672/Taxi-price-prediction.git
+2. Open the Jupyter Notebook.
+3. Install dependencies:
+4. 4. Run the cells to train and test the model.
+
+## Results
+- [Include any results, plots, or key findings here.]
